@@ -11,7 +11,7 @@
 ✅ Gamification elements to encourage learning  
 
 ## 🛠 Tech Stack  
-- *Frontend:* React.js / HTML / CSS  
-- *Backend:* Node.js / Python / Django  
-- *Database:* MongoDB / Firebase / MySQL  
-- *AI Implementation:* Python (Machine Learning for adaptive learning) 
+- Frontend: HTML / CSS  
+- Backend: Node.js / Python / Django  
+- Database: MongoDB / MySQL  
+- AI Implementation: Python (Machine Learning for adaptive learning) 
